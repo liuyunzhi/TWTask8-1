@@ -1,5 +1,7 @@
 # RESTful API 综合练习
 
+[![Build Status](https://travis-ci.org/liuyunzhi/TWTask8-1.git?branch=master)](https://travis-ci.org/liuyunzhi/TWTask8-1)
+
 ## 练习描述
 - 在已有的 [Sping Data JPA](https://github.com/tws-online-quiz/Spring-Data-JPA-Quiz) 项目基础上，使用JPA的`@OneToMany`注解实现Company和Employee是**一对多**的关系，实现级联删除，查询
 - 要求使用Flyway命令对数据进行迁移
